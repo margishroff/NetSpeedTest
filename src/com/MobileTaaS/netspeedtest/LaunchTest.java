@@ -22,6 +22,9 @@ import android.app.AlertDialog;
 import com.MobileTaaS.netspeedtest.Connectivity;
 import com.MobileTaaS.netspeedtest.*;
 
+/* Margi - One of the tools created for MobileTaaS Project *>
+ *
+ */
 public class LaunchTest extends Activity {
 
 	/** Called when the activity is first created. */
